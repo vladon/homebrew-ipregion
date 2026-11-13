@@ -1,9 +1,9 @@
 class Ipregion < Formula
   desc "IP geolocation and region availability checks from your terminal"
   homepage "https://ipregion.top"
-  url "https://github.com/vladon/ipregion/releases/download/v1.3.7/ipregion.sh"
-  version "1.3.7"
-  sha256 "2c488efef269c644c7bce2cc6fe259bce962b06264ee2ea586d5a420fcca6341"
+  url "https://github.com/vladon/ipregion/releases/download/v1.3.8/ipregion.sh"
+  version "1.3.8"
+  sha256 "7d1e75e8e2abc68f63f68628c50d08637f26cad26db71f1db8a1d2e438f3a18d"
   license "MIT"
 
   def install
